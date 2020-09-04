@@ -1,0 +1,24 @@
+
+
+nav{
+    text-align:center;
+
+nav a{
+    border:3px solid black;
+    text-decoration:none;
+    color:black;
+    padding:3px;
+}
+
+h1{
+    text-align:center;
+}
+p{
+    text-align:center;
+}
+.hero-image{
+    background-image:url("https://images.unsplash.com/photo-1463171379579-3fdfb86d6285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height:40vh;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
